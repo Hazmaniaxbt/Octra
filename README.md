@@ -42,7 +42,8 @@ curl -fsSL https://octra.org/wallet-generator.sh | bash
 
 - Bu kısmı görünce kendi tarayıcınızdan http://xxx:8888 adresine gireceksiniz.
 - ÖNEMLİ xxx yerine kendi sunucu IP adresinizi girin.
-- Verilen bilgileri bir yere kaydedin lazım olacak. Sonra CTRL + C yapıp kapatabilirsiniz.
+- Generate Wallet tıklayıp cüzdan oluşturun
+- Verilen bilgileri bir yere kaydedin lazım olacak. Sonra sunucudan CTRL + C yapıp kapatabilirsiniz.
 
 ## Octra Klasörü Oluşturun
 
