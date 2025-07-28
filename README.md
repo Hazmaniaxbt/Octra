@@ -40,7 +40,8 @@ curl -fsSL https://octra.org/wallet-generator.sh | bash
 ```
 <img width="922" height="174" alt="resim" src="https://github.com/user-attachments/assets/6d991066-04d5-4d69-aa37-206adf7bc606" />
 
-- Bu kısmı görünce kendi tarayıcınızdan http://sunucuIP:8888 adresine gidin ve generate wallet deyin. Verilen bilgileri bir yere kaydedin lazım olacak. Sonra CTRL + C yapıp kapatabilirsiniz.
+- Bu kısmı görünce kendi tarayıcınızdan http://sunucuIP:8888 adresine (kendi sunucunuzun IP adresi) gidin ve generate wallet deyin.
+- Verilen bilgileri bir yere kaydedin lazım olacak. Sonra CTRL + C yapıp kapatabilirsiniz.
 
 ## Octra Klasörü Oluşturun
 
