@@ -107,7 +107,6 @@ source $HOME/.cargo/env
 ## Diğer Kısıma Geçelim
 
 ```bash
-cd octra
 git clone https://github.com/octra-labs/ocs01-test.git
 cd ocs01-test
 cargo build --release
