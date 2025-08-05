@@ -1,4 +1,4 @@
-<img width="844" height="475" alt="resim" src="https://github.com/user-attachments/assets/2aaac032-85d2-49b3-aeff-850a9f6a5951" />
+<img width="1085" height="322" alt="resim" src="https://github.com/user-attachments/assets/b86602ae-02a4-4a30-97af-3a2b152551e1" />
 
 ## <h1 align="center">Octra Testnet Rehberi</h1>
 
