@@ -1,4 +1,6 @@
-# Octra Testnet Rehberi
+<img width="844" height="475" alt="resim" src="https://github.com/user-attachments/assets/2aaac032-85d2-49b3-aeff-850a9f6a5951" />
+
+## <h1 align="center">Octra Testnet Rehberi</h1>
 
 **Octra testnet** sürecinde yapılması gereken tüm adımları en anlaşılır haliyle bulabilirsiniz. Rehber zamanla güncellenecektir
 
